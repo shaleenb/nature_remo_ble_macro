@@ -4,5 +4,5 @@
          <property name="WRITE" requirement="MANDATORY"/>
       </assert-characteristic>
    </assert-service>
-   <write description="Write 0x64FD3CDF3A0E010100 to 0000fff0-0000-1000-8000-00805f9b34fb" characteristic-uuid="0000fff0-0000-1000-8000-00805f9b34fb" service-uuid="0000fff0-0000-1000-8000-00805f9b34fb" value="64FD3CDF3A0E010100" type="WRITE_COMMAND"/>
+   <write description="Write 0x64FD3CDF3A0E010100 to 0000fff0-0000-1000-8000-00805f9b34fb" characteristic-uuid="0000fff0-0000-1000-8000-00805f9b34fb" service-uuid="0000fff0-0000-1000-8000-00805f9b34fb" value="64FD3CDF3A0E010100" type="WRITE_REQUEST"/>
 </macro>
